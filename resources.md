@@ -36,7 +36,11 @@
 
 - **[Buttons css](https://uiverse.io/)**
 
+- **[Blob maker css](https://www.blobmaker.app/)**
+
 - **[FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)**
+
+- **[Glassmorphism CSS Generator](https://ui.glass/generator/)**
 
 - **[Neumorphism](https://neumorphism.io/#e0e0e0)**
 
@@ -184,7 +188,11 @@
 
 - **[JavaScript / React Patterns Workshop](https://javascriptpatterns.vercel.app/patterns)**
 
+- **[JavaScript Design Patterns](https://www.dofactory.com/javascript/design-patterns)**
+
 - **[Advanced JavaScript Design Patterns](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)**
+
+- **[How to detect browser or tab closing in JavaScript ?](https://www.geeksforgeeks.org/how-to-detect-browser-or-tab-closing-in-javascript/)**
 
 - **[TypeScript Guide](https://betterprogramming.pub/the-typescript-guide-i-wish-i-had-185087d66dd1)**
 
@@ -286,7 +294,7 @@
 
 - **[Learn GIT](https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud)**
 
-- **[How to detect browser or tab closing in JavaScript ?](https://www.geeksforgeeks.org/how-to-detect-browser-or-tab-closing-in-javascript/)**
+- **[Java Tutorial](https://www.manualweb.net/java/)**
 
 ---
 
@@ -315,6 +323,12 @@
 ### **MARKDOWN**
 
 - **[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
+
+- **[Markdown Tutorial](https://www.markdowntutorial.com/)**
+
+- **[GitHub Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)**
+
+- **[GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)**
 
 ---
 
