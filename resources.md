@@ -445,3 +445,55 @@
 - **[Adding Homebrew MySQL Service to your PATH](https://cagrimmett.com/development/2019/06/11/use-homestead-mysql-command-line/)**
 
 - **[Error: EACCES: permission denied](https://www.dailytask.co/task/error-eacces-permission-denied-rename-usrlocallibnodemodulescdk8s-clinodemodulescliui-ahmed-zidan)**
+
+---
+
+### **VSCode extensions**
+
+- **[Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)**
+
+- **[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)**
+
+- **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**
+
+- **[Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)**
+
+- **[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)**
+
+- **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**
+
+- **[GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)**
+
+- **[Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)**
+
+- **[LaserWave Theme](https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave)**
+
+- **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
+
+- **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)**
+
+- **[One Dark Pro Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)**
+
+- **[PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)**
+
+- **[PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack)**
+
+- **[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)**
+
+- **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+
+- **[Ra Spring Light Theme](https://marketplace.visualstudio.com/items?itemName=rahmanyerli.ra-spring)**
+
+- **[React Theme](https://marketplace.visualstudio.com/items?itemName=mikaelkristiansson87.react-theme-vscode)**
+
+- **[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)**
+
+- **[Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)**
+
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**
+
+- **[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)**
+
+- **[Tokyo Night Theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)**
+
+- **[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)**
