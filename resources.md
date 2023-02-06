@@ -128,6 +128,12 @@
 
 - **[Remove background](https://www.remove.bg/es)**
 
+- **[WEBP to PNG Converter](https://cloudconvert.com/webp-to-png)**
+
+- **[LogoMaker](https://www.logomaker.com/es/)**
+
+- **[DesignEvo -creador de logos online gratis](https://www.designevo.com/es/)**
+
 ---
 
 ### **ICONS**
@@ -225,6 +231,8 @@
 - **[Role Based Authorization with React Router v6 and Typescript](https://adarshaacharya.com.np/blog/role-based-auth-with-react-router-v6)**
 
 - **[setTimeout function in useEffect](https://stackoverflow.com/questions/70471250/settimeout-function-in-useeffect-outputs-a-cached-state-value)**
+
+- **[React + TypeScript (short course YT)](https://www.youtube.com/playlist?list=PLCKuOXG0bPi26-eawizqyLOgM7j66H_4M)**
 
 ---
 
@@ -397,6 +405,14 @@
 - **[Preguntas de entrevista para React](https://github.com/midudev/preguntas-entrevista-react)**
 
 - **[React Interviews – Front-End Technical Interview Guide](https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/)**
+
+- **[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)**
+
+- **[javascript interview questions](https://github.com/sudheerj/javascript-interview-questions)**
+
+- **[Node.js Basics interview questions](https://github.com/learning-zone/nodejs-basics)**
+
+- **[Lemon: Remote dev jobs ](https://lemon.io/magic-box/)**
 
 ---
 
