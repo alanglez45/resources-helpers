@@ -18,6 +18,8 @@
 
 ### **CSS**
 
+- **[CSS Position property (position relative, fixed, absolute, etc)](https://www.w3schools.com/css/css_positioning.asp#:~:text=An%20element%20with%20position%3A%20relative,gap%20left%20by%20the%20element.)**
+
 - **[CSS Spinners](https://tobiasahlin.com/spinkit/)**
 
 - **[REM Calculator](https://borderleft.com/toolbox/rem/)**
@@ -68,8 +70,6 @@
 
 - **[Hamburger animated icon](https://codepen.io/designcouch/pen/ExvwPY)**
 
-- **[100dayscss](https://100dayscss.com/)**
-
 - **[CSS tricks](https://css-tricks.com/)**
 
 - **[CSS selectors cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)**
@@ -90,6 +90,10 @@
 
 - **[Websites For Creative Backgrounds](https://wweb.dev/resources/creative-backgrounds/)**
 
+- **[Open-Source UI elements made with HTML and CSS](https://uiverse.io/all?fbclid=IwAR32B3BU1naMYDHZG3Sgc6pV0yzAbg_lQE-7w8ZifIOBK0chBSmBt_Fzxiw)**
+
+- **[A collection of popular layouts and patterns made with CSS](https://csslayout.io/?fbclid=IwAR14-VV6uSI9i_jJzZCJHbhenSu8d8QdeilyhdV5v1aaluJ7s62mc63YTjo)**
+
 ---
 
 ### **IMAGES**
@@ -109,6 +113,12 @@
 - **[Pexels](https://www.pexels.com/)**
 
 - **[Pixabay](https://pixabay.com/)**
+
+- **[ISO Republic](https://isorepublic.com/)**
+
+- **[LIFE OF PIX](https://www.lifeofpix.com/)**
+
+- **[Stocksnap](https://stocksnap.io/)**
 
 - **[Freepik](https://www.freepik.es/)**
 
@@ -132,7 +142,8 @@
 
 - **[LogoMaker](https://www.logomaker.com/es/)**
 
-- **[DesignEvo -creador de logos online gratis](https://www.designevo.com/es/)**
+- **[DesignEvo - creador de logos online gratis](https://www.designevo.com/es/)**
+- **[Profile pic maker](https://pfpmaker.com/)**
 
 ---
 
@@ -290,6 +301,8 @@
 
 - **[SQL Tutorial - sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)**
 
+- **[SQL Fixer](https://www.airops.com/)**
+
 ---
 
 ### **PHP**
@@ -303,6 +316,8 @@
 - **[Learn GIT](https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud)**
 
 - **[Java Tutorial](https://www.manualweb.net/java/)**
+
+- **[Web dev collection of courses ](https://web.dev/learn/)**
 
 ---
 
@@ -421,6 +436,18 @@
 - **[Practice programming](https://exercism.org/)**
 
 - **[Frontend Mentor](https://www.frontendmentor.io/)**
+
+- **[100dayscss](https://100dayscss.com/)**
+
+- **[Practice react github jobs project](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps)**
+
+- **[50 Projects in 50 Days - HTML/CSS and JavaScript](https://github.com/bradtraversy/50projects50days)**
+
+- **[preview 50 Projects in 50 Days - HTML/CSS and JavaScript](https://50projects50days.com/)**
+
+- **[Hacker Rank](https://www.hackerrank.com/dashboard)**
+
+- **[Leetcode programming problems and interviews](https://leetcode.com/problemset/all/)**
 
 ---
 
