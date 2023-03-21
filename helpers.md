@@ -89,6 +89,15 @@
 
 ---
 
+## **Media Queries with JavaScript**
+
+    const mediaQuery = window.matchMedia('(min-width: 768px)');
+        if (mediaQuery.matches) {
+        // Do something
+    }
+
+---
+
 ## **JSON SERVER**
 
 WINDOWS: EJECUTAR POWERSHELL DE WINDOWS COMO ADMINISTRADOR Y USAR EL SIGUIENTE COMANDO

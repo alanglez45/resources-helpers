@@ -119,6 +119,42 @@
 
 ---
 
+## Phone call and SMS links
+
+    <a href="tel:1-408-555-5555">1-408-555-5555</a>
+    <a href="sms:1-408-555-1212">New SMS Message</a
+
+---
+
+## Downloadable links
+
+    <a href="/files/adlafjlxjewfasd89asd8f.pdf" download="notes.pdf">Download Your Expense Report</as
+
+---
+
+## Get directions form (google maps)
+
+    <form action="http://maps.google.com/maps" method="get" target="_blank">
+        <label for="saddr">Enter your location</label>
+        <input type="text" name="saddr"
+        <input type="hidden" name="daddr" value="350 5th Ave New York, York, NY 1001B (Empire State Building)"/>
+        <input type="submit" values="Get directions"
+    </form>
+
+---
+
+## Restrict uploads to specific types
+
+    <input type="file" name="media_empty" accept="image/gif,image/jpeg,image/jpg,image/png">
+
+---
+
+## Restrict uploads to specific types
+
+    <input name="name_fld" type="text" autocomplete="off">
+
+---
+
 ## Display my website (dev) on a phone
 
     http://ip:port/index.html
