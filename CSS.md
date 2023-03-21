@@ -149,7 +149,7 @@
 
 ---
 
-## Restrict uploads to specific types
+## AutoComplete off inputs
 
     <input name="name_fld" type="text" autocomplete="off">
 
