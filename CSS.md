@@ -1,5 +1,21 @@
 # **CSS Helpers**
 
+## Menú
+
+- [Responsive Web Design - Media Queries](#responsive-web-design---media-queries)
+- [Media Queries Range Syntax](#media-queries-range-syntax)
+- [Font Size (REM Hack)](#font-size-rem-hack)
+- [Box-sizing: Border-box](#box-sizing-border-box)
+- [Mobile Font Sizes](#mobile)
+- [Desktop Font Sizes](#desktop)
+- [IMG Responsive](#img-responsive)
+- [Anchor Tag | a Tag](#anchor-tag--a-tag)
+- [Get Directions Form (Google Maps)](#get-directions-form-google-maps)
+- [Restrict Uploads to Specific Types](#restrict-uploads-to-specific-types)
+- [Autocomplete Off Inputs](#autocomplete-off-inputs)
+- [Display My Website (Dev) on a Phone](#display-my-website-dev-on-a-phone)
+- [Nice Fonts](#nice-fonts)
+
 ## Responsive Web Design - Media Queries
 
     // Mobile
@@ -32,9 +48,65 @@
 
     }
 
+ #### Media Queries Range Syntax    
+
+    // sintaxis clásica
+    @media screen and (min-width: 600px) {
+        .element {
+            /* La media query se aplica para resoluciones 
+            mayores a 600px*/
+        }
+    }
+
+    // sintaxis de rango
+    @media screen and (width >= 375px) {
+        .element {
+            /* La media query se aplica para 
+            resoluciones mayores o iguales a 600px */
+        }
+    }
+
+---
+    // sintaxis clásica
+    @media screen and (min-width: 400px) and (max-width: 1000px) {
+        .element {
+            /* La media query se aplica para 
+            resoluciones entre 400px y 1000px */
+        }
+    }
+
+    //sintaxis de rangos
+    @media screen and (400 <= width <= 1000) {
+        .element {
+            /* La media query se aplica para 
+            resoluciones entre 400px y 1000px */
+        }
+    }
+
 ---
 
-## Font size
+## Font size (REM HACK)
+
+    html {
+        font-size: 62.5% /* 1 REM = 10px*/
+    }
+
+## Box-sizing: Border-box 
+
+    /* apply a natural box layout model to all elements, but allowing components to change */
+    html {
+        box-sizing: border-box;
+    }
+    *, *:before, *:after {
+        box-sizing: inherit;
+    }
+
+
+content-box:\
+This is the initial and default value as specified by the CSS standard. The width and height properties include the content, but does not include the padding, border, or margin.
+
+border-box:\
+The width and height properties include the content, padding, and border, but do not include the margin.
 
 ### Mobile
 
@@ -98,7 +170,7 @@
         font-size: 40px;
     }
 
----
+
 
 ## IMG Responsive
 
@@ -111,26 +183,29 @@
         width: 100%;
     }
 
----
 
-## a Tag (safe links)
+## Anchor Tag | a Tag 
+
+
+Safe links
 
     <a href="https://misitio.com" rel="noopener noreferrer">Texto de mi enlace</a>
 
----
 
-## Phone call and SMS links
+Phone call and SMS links
 
     <a href="tel:1-408-555-5555">1-408-555-5555</a>
     <a href="sms:1-408-555-1212">New SMS Message</a
 
----
+E-mail
 
-## Downloadable links
+    <a href="mailto:someone@example.com">Send email</a>
+
+Downloadable links
 
     <a href="/files/adlafjlxjewfasd89asd8f.pdf" download="notes.pdf">Download Your Expense Report</as
 
----
+
 
 ## Get directions form (google maps)
 
@@ -141,15 +216,15 @@
         <input type="submit" values="Get directions"
     </form>
 
----
 
-## Restrict uploads to specific types
+
+## input tag: 
+
+restrict uploads to specific types
 
     <input type="file" name="media_empty" accept="image/gif,image/jpeg,image/jpg,image/png">
 
----
-
-## AutoComplete off inputs
+autoComplete off inputs
 
     <input name="name_fld" type="text" autocomplete="off">
 
@@ -157,7 +232,7 @@
 
 ## Display my website (dev) on a phone
 
-    http://ip:port/index.html
+    Syntax: http://ip:port/index.html
 
     http://192.168.1.70:5500/index.html
 
