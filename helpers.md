@@ -100,20 +100,20 @@
 
 ## **JSON SERVER**
 
-WINDOWS: EJECUTAR POWERSHELL DE WINDOWS COMO ADMINISTRADOR Y USAR EL SIGUIENTE COMANDO
+WINDOWS: RUN WINDOWS POWERSHELL AS ADMINISTRATOR AND USE THE FOLLOWING COMMAND
 
     npm install -g json-server
 
     MAC: SUDO npm install -g json-server
 
-Colocar el archivo db.json en la raíz
+put the file in the root project folder: db.json
 
     json-server --watch db.json --port 4000
 
-http://localhost:4000/clientes (clientes es el nombre del objeto en el archivo db.json)
+http://localhost:4000/users (users is the object's name in the file db.json)
 
-si hay algun registro se puede acceder con su id
+If there's some records, it can be accessed to them by id
 
-http://localhost:4000/clientes/1
+http://localhost:4000/users/1
 
 ---
