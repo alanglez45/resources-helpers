@@ -18,39 +18,39 @@
 
 ## Responsive Web Design - Media Queries
 
-    // Mobile
+    /* Mobile */
     @media (min-width: 320px) and (max-width: 480px)  {
 
     }
 
-    // Tablet
+    /* Tablet */
     @media (min-width: 481px) and (max-width: 768px)  {
 
     }
 
-    // Laptop
-    @media (min-width: 769px) and (max-width: 1023 px)  {
+    /* Laptop */
+    @media (min-width: 769px) and (max-width: 1023px)  {
 
     }
 
-    // Desktop
-    @media (min-width: 769px) and (max-width: 1023 px)  {
+    /* Desktop */
+    @media (min-width: 769px) and (max-width: 1023px)  {
 
     }
 
-    // TV / Extra large
+    /* TV / Extra large */
     @media (min-width: 1201px) {
 
     }
 
-    // Monitor 27"
+    /* Monitor 27" */
     @media (min-width: 1920px) {
 
     }
 
  #### Media Queries Range Syntax    
 
-    // sintaxis clásica
+    /* sintaxis clásica */
     @media screen and (min-width: 600px) {
         .element {
             /* La media query se aplica para resoluciones 
@@ -58,7 +58,7 @@
         }
     }
 
-    // sintaxis de rango
+    /* sintaxis de rango */
     @media screen and (width >= 375px) {
         .element {
             /* La media query se aplica para 
@@ -67,7 +67,7 @@
     }
 
 ---
-    // sintaxis clásica
+    /* sintaxis clásica */
     @media screen and (min-width: 400px) and (max-width: 1000px) {
         .element {
             /* La media query se aplica para 
@@ -75,7 +75,7 @@
         }
     }
 
-    //sintaxis de rangos
+    /* sintaxis de rangos */
     @media screen and (400 <= width <= 1000) {
         .element {
             /* La media query se aplica para 
@@ -120,7 +120,7 @@ The width and height properties include the content, padding, and border, but do
     }
 
     /* 16 –18px */
-    .body-text {  {
+    .body-text {
         font-size: 16px;
     }
 

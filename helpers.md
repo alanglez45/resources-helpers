@@ -117,3 +117,29 @@ If there's some records, it can be accessed to them by id
 http://localhost:4000/users/1
 
 ---
+
+## **REDUX templateSlice.js**
+
+    import { createSlice } from '@reduxjs/toolkit'
+
+    export const counterSlice = createSlice({
+        name: 'name',
+        initialState: {
+            count: 0
+        },
+        reducers: {
+            increment: state => {
+                state.count += 1
+            },
+            decrement: state => {
+                state.count -= 1
+            },
+            incrementByAmount: (state, action) => {
+                state.count += action.payload
+            }
+        }
+    })
+
+    export const { increment, decrement, incrementByAmount } = counterSlice.actions
+
+    export default counterSlice.reducer
