@@ -1,10 +1,11 @@
 # **CSS Helpers**
 
 ## Menú
-
+- [Breakpoints](#breakpoints)
 - [Responsive Web Design - Media Queries](#responsive-web-design---media-queries)
 - [Media Queries Range Syntax](#media-queries-range-syntax)
 - [Font Size (REM Hack)](#font-size-rem-hack)
+- [Font weight](#font-weight)
 - [Box-sizing: Border-box](#box-sizing-border-box)
 - [Mobile Font Sizes](#mobile)
 - [Desktop Font Sizes](#desktop)
@@ -15,6 +16,17 @@
 - [Autocomplete Off Inputs](#autocomplete-off-inputs)
 - [Display My Website (Dev) on a Phone](#display-my-website-dev-on-a-phone)
 - [Nice Fonts](#nice-fonts)
+
+## Breakpoints
+
+| Range (px)        | Device                                      |
+|-------------------|---------------------------------------------|
+| 0 – 480px         | Small phones                                |
+| 481 – 768px       | Large phones / portrait tablets             |
+| 769 – 1024px      | Landscape tablets / small laptops           |
+| 1025 – 1280px     | Standard laptops                            |
+| 1281 – 1440px     | Medium monitors                             |
+| 1441px and up     | Large screens / wide desktops               |
 
 ## Responsive Web Design - Media Queries
 
@@ -88,8 +100,24 @@
 ## Font size (REM HACK)
 
     html {
-        font-size: 62.5% /* 1 REM = 10px*/
+        font-size: 62.5%; /* 1 REM = 10px*/
     }
+
+---
+
+## Font weight
+
+| Name                             | font-weight |
+|-----------------------------------|------------|
+| Thin                              | 100        |
+| ExtraLight                        | 200        |
+| Light                             | 300        |
+| Regular (a veces "NotoSans.ttf")  | 400        |
+| Medium                            | 500        |
+| SemiBold (o DemiBold)             | 600        |
+| Bold                              | 700        |
+| ExtraBold                         | 800        |
+| Black                             | 900        |
 
 ## Box-sizing: Border-box 
 
